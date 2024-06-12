@@ -1,4 +1,4 @@
-<img src="./profile/banner.png" width="100%" alt="OTWLD Software Agency">
+<img src="./banner.png" width="100%" alt="OTWLD Software Agency">
 
 <h3 align="center">
   <b><a target="_blank" href="https://otwld.com">Website</a></b>
